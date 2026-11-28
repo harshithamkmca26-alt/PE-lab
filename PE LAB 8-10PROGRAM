@@ -144,3 +144,12 @@ Suggested Metrics to Improve:
 Return only the generated bullet points and suggested metrics. Do not invent missing information.
 
 INPUT:
+Raw Project/Internship/Achievement Description:
+
+"Created a student management system using Python and MySQL. It allows administrators to
+add, update, delete, and view student records. Implemented a login system for secure access and designed a simple user interface."
+
+OUTPUT:
+Resume Bullet Points:
+Developed a Student Management System using Python and MySQL, implementing CRUD (Create, Read, Update, Delete) operations to manage student records efficiently.
+Implemented secure user authentication and designed a user-friendly interface to streamline student data management and administrative operations.
